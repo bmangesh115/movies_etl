@@ -4,9 +4,7 @@ config.py
 # Adding additional files.
 .ipynb_checkpoints
 __pycache__
-movies_metadata.csv
-ratings.csv
-wikipedia-movies.json
+Resources/ratings.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
